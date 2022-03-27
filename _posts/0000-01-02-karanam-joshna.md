@@ -2,5 +2,5 @@
 layout:slide
 title:"Welcome to our second slide!"
 -----
-Your text
+hello this is karanam joshna
 Use the left arrow to go back!
